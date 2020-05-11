@@ -62,3 +62,8 @@
 // Motion UI
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+
+#header {
+    border-top: 6px solid $black;
+}
